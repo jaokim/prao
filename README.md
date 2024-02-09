@@ -21,4 +21,18 @@ På https://dev.java/ kan man kolla på t.ex. Playground för att testa lite Jav
 
 ### Installera Oracle Linux i en ny VM
 
+### Installera utvecklingsverktyg
+Öppna en terminal i Linux
+* Installera git
+*   `sudo yum install git`
+
+## Bygg OpenJDK
+### Klona OpenJDK
+Man kan skapa en fork av https://github.com/openjdk/jdk, som man sen klonar. Du kan klona denna fork:
+*   `git clone --branch prao-2024 https://github.com/jaokim/jdk.git`
+*   `git switch prao-2024`
+
+### Bygg OpenJDK
+Följ instruktionerna på https://github.com/openjdk/jdk/blob/master/doc/building.md
+
 
