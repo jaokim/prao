@@ -25,7 +25,7 @@ På https://dev.java/ kan man kolla på t.ex. Playground för att testa lite Jav
 ### Installera utvecklingsverktyg
 Öppna en terminal i Linux
 * Installera git
-*   `sudo yum install git`
+  * `sudo yum install git`
 
 ## Bygg OpenJDK
 ### Klona OpenJDK
