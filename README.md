@@ -15,9 +15,9 @@ På https://dev.java/ kan man kolla på t.ex. Playground för att testa lite Jav
 
 ## Installera utvecklingsmiljö
 
-* Ladda ner och installera VirtualBox
+* Ladda ner och installera VirtualBox för "Windows Host"
   - https://www.virtualbox.org/wiki/Downloads
-* Ladda ner Boot ISO med Oracle Linux
+* Ladda ner "Boot ISO" med Oracle Linux
   - https://yum.oracle.com/oracle-linux-isos.html
 
 ### Installera Oracle Linux i en ny VM
