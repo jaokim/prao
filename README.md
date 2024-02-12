@@ -36,4 +36,7 @@ Man kan skapa en fork av https://github.com/openjdk/jdk, som man sen klonar. Du 
 ### Bygg OpenJDK
 Följ instruktionerna på https://github.com/openjdk/jdk/blob/master/doc/building.md
 
-
+### Testa din JDK
+* Kompilera nån egen Java-snutt och kör med din egenkompilerade JVM.
+* Vad heter din JVM? Kör `java -version`, och ange vilken version du kör.
+  - Kan du ändra informationen som skrivs ut när du kör "-version"?
