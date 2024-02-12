@@ -3,13 +3,13 @@
 ## Schema (prel)
 |     | Måndag      | Tisdag    | Onsdag   | Torsdag  | Fredag |
 |---|---|---|---|---|---|
-|9:30  |            | Intro JVM | OpenJDK  |
-|10    | Intro      | Utv.miljö |          | 
-|10:30 | Standup    |           | Standup  | Standup/triage
-|11    | Intro Java | Lite git  |          |
-|12    | Lunch      | Lunch     | Lunch    | Lunch     | Lunch   |
-|13-14 | Utv.miljö  | 
-|14-16 | Utv.miljö  | 
+|9:30  |            | Intro JVM     | Intro OpenJDK  |
+|10    | Intro      | Utv.miljö     |           | 
+|10:30 | Standup    |               | Standup   | Standup/triage
+|11    | Intro Java | Lite git      | Intro JBS |
+|12    | Lunch      | Lunch         | Lunch    | Lunch     | Lunch   |
+|13-14 | Utv.miljö  | Bygga OpenJDK |          |
+|14-16 | Utv.miljö  | Bygga OpenJDK |          |
 
 På https://dev.java/ kan man kolla på t.ex. Playground för att testa lite Java-snuttar.
 
