@@ -42,7 +42,7 @@ Följ instruktionerna på https://github.com/openjdk/jdk/blob/master/doc/buildin
  
 ### Din första bugg/krasch
 Du har fått ett ärende:
-* https://github.com/jaokim/prao/issues/1
+* Hotspot kraschar: https://github.com/jaokim/prao/issues/1
   - Läs igenom ärendet och försök greppa ungefär vad som händer
   - Vilken version används?
   - Försök återskapa problemet -- finns det nån reproducer
