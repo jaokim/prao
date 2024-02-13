@@ -39,3 +39,14 @@ Följ instruktionerna på https://github.com/openjdk/jdk/blob/master/doc/buildin
 * Kompilera nån egen Java-snutt och kör med din egenkompilerade JVM.
 * Vad heter din JVM? Kör `java -version`, och ange vilken version du kör.
   - Kan du ändra informationen som skrivs ut när du kör "-version"?
+ 
+### Din första bugg/krasch
+Du har fått ett ärende:
+* https://github.com/jaokim/prao/issues/1
+  - Läs igenom ärendet och försök greppa ungefär vad som händer
+  - Vilken version används?
+  - Försök återskapa problemet -- finns det nån reproducer
+  - Hur startar de JVM:en? Använder de några speciella argument?
+ 
+  - Ledtrådar   
+  - För att uppdatera ditt repo till senaste, kör `git pull -q`
