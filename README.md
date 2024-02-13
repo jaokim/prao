@@ -3,8 +3,7 @@
 ## Schema (prel)
 |     | Måndag      | Tisdag    | Onsdag   | Torsdag  | Fredag |
 |---|---|---|---|---|---|
-|9:30  |            | Intro JVM     | Intro OpenJDK  |
-|10    | Intro      | Utv.miljö     |           | 
+|10    | Intro      | Utv.miljö     | Intro OpenJDK | 
 |10:30 | Standup    |               | Standup   | Standup/triage
 |11    | Intro Java | Lite git      | Intro JBS |
 |12    | Lunch      | Lunch         | Lunch    | Lunch     | Lunch   |
