@@ -1,5 +1,6 @@
 
 import java.util.ArrayList;
+import java.util.List;
 
 
 public class Reproducer {
@@ -7,7 +8,7 @@ public class Reproducer {
     int doIt() { return 0; }
     public static void main(String ... args) {
         int counter = 0;
-        ArrayList list = new ArrayList();
+        List list = new ArrayList<Reproducer>();
         while (true) {
             for (int i = 0; i < 7; i++) {
                 for (int j = 0; j< 7; j++) {
@@ -17,13 +18,13 @@ public class Reproducer {
                             return new String(value.toString()).hashCode();
                         }
                     };
-                    list.add((Object)o);
-                    
+                    list.add(o);
                 }
             }
             counter++;
             if ((counter % 10000) == 0) {
                 list.clear();
+                try { Thread.sleep(500); } catch(Exception e) {}
                 System.out.println("Done "+counter + " rounds so far");
             }
         }
