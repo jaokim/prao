@@ -56,5 +56,5 @@ Du har fått ett ärende:
   - https://www.youtube.com/watch?v=WPZiv1Ow2Qk
   - https://www.youtube.com/watch?v=bHcKTYy_Nec
   - 
-* För att börja lära sig mer om IOpenJDK, finns det s.k. "starter" bugs:
+* För att börja bidra till OpenJDK, finns det s.k. "starter bugs":
  - [https://bugs.openjdk.org](https://bugs.openjdk.org/issues/?jql=project%20%3D%20JDK%20AND%20labels%20%3D%20starter%20AND%20assignee%20is%20null%20AND%20component%20%3D%20hotspot%20AND%20status%20not%20in%20(Resolved%2C%20Closed))
