@@ -12,6 +12,13 @@
 
 På https://dev.java/ kan man kolla på t.ex. Playground för att testa lite Java-snuttar.
 
+## Proxy i PS
+
+```
+$env:HTTP_PROXY = "proxy-url"
+$env:HTTPS_PROXY = "proxy-url"
+```
+
 ## Installera utvecklingsmiljö
 
 * Ladda ner och installera VirtualBox för "Windows Host"
