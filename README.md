@@ -67,4 +67,7 @@ https://openjdk.org/projects/skara
 
 
 https://github.com/openjdk/skara/commit/b8e2fce10b97de230b7c67bb195b91e6c81147e7
-bash gradlew :bots:pr:test --tests "BackportTests*"
+
+`bash gradlew :bots:pr:test --tests "BackportTests*"`
+
+
