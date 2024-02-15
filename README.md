@@ -58,3 +58,13 @@ Du har fått ett ärende:
   - 
 * För att börja bidra till OpenJDK, finns det s.k. "starter bugs":
  - [https://bugs.openjdk.org](https://bugs.openjdk.org/issues/?jql=project%20%3D%20JDK%20AND%20labels%20%3D%20starter%20AND%20assignee%20is%20null%20AND%20component%20%3D%20hotspot%20AND%20status%20not%20in%20(Resolved%2C%20Closed))
+
+### Skara-tooling
+
+https://github.com/openjdk/skara
+
+https://openjdk.org/projects/skara
+
+
+https://github.com/openjdk/skara/commit/b8e2fce10b97de230b7c67bb195b91e6c81147e7
+bash gradlew :bots:pr:test --tests "BackportTests*"
